@@ -1,5 +1,5 @@
 # 👋 Hi, I am Jamiel Kyne R. Pinca
-a Computer Science student at Cebu Institute of Technology. Beyond my academic pursuits, I enjoy exploring new technologies and collaborating on innovative projects—especially those that make a positive impact on the community. I am driven by creativity and problem-solving, continuously striving to enhance my skills in programming and design while contributing to meaningful and socially beneficial initiatives.
+a Computer Science student at Cebu Institute of Technology - University. Beyond my academic pursuits, I enjoy exploring new technologies and collaborating on innovative projects—especially those that make a positive impact on the community. I am driven by creativity and problem-solving, continuously striving to enhance my skills in programming and design while contributing to meaningful and socially beneficial initiatives.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JamJamzz)
