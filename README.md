@@ -2,7 +2,6 @@
 a Computer Science student at Cebu Institute of Technology - University. Beyond my academic pursuits, I enjoy exploring new technologies and collaborating on innovative projects—especially those that make a positive impact on the community. I am driven by creativity and problem-solving, continuously striving to enhance my skills in programming and design while contributing to meaningful and socially beneficial initiatives.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JamJamzz)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/jamielkyne.r.pinca/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamiel-kyne-pinca-92b045342/) 
 
